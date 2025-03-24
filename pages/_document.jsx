@@ -28,7 +28,7 @@ class MyDocument extends Document {
             property="og:description"
             content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
           />
-          <meta property="og:image" content="/img/logo.jpg" />
+          <meta property="og:image" content="img/Fashion Brand Art Design Logo_20250324_204510_0000.png" />
           <meta property="og:image:alt" content="VocardMusic" />
           <meta property="og:locale" content="en_GB" />
           <meta
