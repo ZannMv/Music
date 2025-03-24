@@ -6,7 +6,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="apple-touch-icon" href="/logo.jpg" />
+          <link rel="apple-touch-icon" href="img/Fashion Brand Art Design Logo_20250324_204510_0000.png" />
           <meta name="robots" content="index,follow" />
           <meta name="googlebot" content="index,follow" />
           <meta
@@ -21,7 +21,7 @@ class MyDocument extends Document {
           <meta property="og:title" content="VocardMusic" />
           <link
             rel="icon"
-            href="/img/logo2.png"
+            href="img/Fashion Brand Art Design Logo_20250324_204510_0000.png"
             type="image/x-icon"
           />
           <meta
