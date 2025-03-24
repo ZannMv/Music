@@ -12,7 +12,7 @@ export default function Footer() {
                         <div className="col-span-3">
                             <div className="flex items-center space-x-5">
                                 <img src="/img/logo2.png" className="rounded-full w-12" />
-                                <p className="font-semibold text-xl text-white">MusicMaker</p>
+                                <p className="font-semibold text-xl text-white">VocardMusic</p>
                             </div>
                             <Menu as="div" className="relative mt-3 inline-block text-left">
                                 <div>
@@ -36,19 +36,19 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Links</p>
                             <div>
-                                <Link href="https://top.gg/bot/774043716797071371/vote">
+                                <Link href="https://top.gg/bot/1353539362985349201?s=0139157833a86">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                         Vote Bot
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <a href="https://discord.gg/ACJQzJuckW" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.gg/noctichorizon" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Support Server
                                 </a>
                             </div>
                             <div>
-                                <a href="https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=applications.commands%20bot" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.com/oauth2/authorize?client_id=1353539362985349201&permissions=8&integration_type=0&scope=bot+applications.commands" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Invite Bot
                                 </a>
                             </div>
@@ -56,21 +56,21 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Social</p>
                             <div>
-                                <Link href="https://discord.gg/ACJQzJuckW">
+                                <Link href="https://discord.gg/noctichorizon">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-discord`} /> Disocrd 
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <Link href="https://github.com/umutxyp/MusicBot">
+                                <Link href="https://github.com/">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-github`} /> GitHub 
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <Link href="https://youtube.com/UmutBayraktarYT">
+                                <Link href="https://youtube.com/">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-youtube`} /> YouTube 
                                     </a>
