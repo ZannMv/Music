@@ -3,6 +3,7 @@ import Link from "next/link";
 
 export default function Commands() {
 const commands = [
+  "/settings 247",
   "/autoplay",
   "/back",
   "/statistic",
