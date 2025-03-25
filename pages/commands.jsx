@@ -91,7 +91,7 @@ const commands = [
   
   <Link href={"https://discord.com/oauth2/authorize?client_id=1353539362985349201&permissions=8&integration_type=0&scope=bot+applications.commands"}>
   <a className={"flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Invite MusicMaker</a>
+Invite VocardMusic</a>
   </Link>
 
   <div className="py-10"></div>
@@ -105,7 +105,7 @@ Support Server</a>
   
   <Link href={"https://top.gg/bot/1353539362985349201?s=0139157833a86"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote MusicMaker</a>
+Vote VocardMusic</a>
   </Link>
 </div>
 
